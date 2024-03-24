@@ -1,4 +1,0 @@
-- [HOME](/)
-- [CALL FOR PAPERS](#/call-for-papers)
-- [ATTEND](#/attend)
-- [SPONSORSHIP](#/sponsorship)
