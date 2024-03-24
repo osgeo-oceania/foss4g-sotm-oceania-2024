@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.973680e5.css",
-    "main.js": "/static/js/main.23d7e0e2.js",
+    "main.js": "/static/js/main.1bd53049.js",
     "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.66b577c295944288aee9.md",
     "static/media/present.md": "/static/media/present.7fe45b4a97137a870e47.md",
@@ -10,6 +10,7 @@
     "static/media/community-day.md": "/static/media/community-day.f43d24c63de1a7274ed3.md",
     "static/media/register.md": "/static/media/register.1d6e0f735b3fb2342128.md",
     "static/media/get-involved.md": "/static/media/get-involved.db58cf7b06f5b72366be.md",
+    "static/media/call-for-papers.md": "/static/media/call-for-papers.3a17d72955e961508f1f.md",
     "static/media/workshops.md": "/static/media/workshops.f20c7095e29a9953c620.md",
     "static/media/social-events.md": "/static/media/social-events.b532cc77c27f9644f7ee.md",
     "static/media/travel-grant-program.md": "/static/media/travel-grant-program.fbc64a6d279830acd321.md",
@@ -18,14 +19,14 @@
     "static/media/home-preamble.md": "/static/media/home-preamble.8ff9bdb582fcd84eab02.md",
     "static/media/about-foss4g-sotm-oceania.md": "/static/media/about-foss4g-sotm-oceania.b5b63b1d19393edf9738.md",
     "static/media/accommodation.md": "/static/media/accommodation.44a0ad741d18c9588aa7.md",
-    "static/media/top-menu.md": "/static/media/top-menu.4d2cd06a59d052c596c1.md",
+    "static/media/top-menu.md": "/static/media/top-menu.3930270133b4bc998c58.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
     "main.973680e5.css.map": "/static/css/main.973680e5.css.map",
-    "main.23d7e0e2.js.map": "/static/js/main.23d7e0e2.js.map",
+    "main.1bd53049.js.map": "/static/js/main.1bd53049.js.map",
     "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.973680e5.css",
-    "static/js/main.23d7e0e2.js"
+    "static/js/main.1bd53049.js"
   ]
 }
