@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.973680e5.css",
-    "main.js": "/static/js/main.44a0edb3.js",
+    "main.js": "/static/js/main.d2a4dc21.js",
     "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.66b577c295944288aee9.md",
     "static/media/present.md": "/static/media/present.7fe45b4a97137a870e47.md",
     "static/media/code-of-conduct.md": "/static/media/code-of-conduct.e7b55cca61f1338c1ad6.md",
     "static/media/organisers.md": "/static/media/organisers.134ce3e56dc3089ed2ad.md",
     "static/media/community-day.md": "/static/media/community-day.f43d24c63de1a7274ed3.md",
+    "static/media/logo-competition.md": "/static/media/logo-competition.3ebbf7e7eabc05a4217f.md",
     "static/media/register.md": "/static/media/register.1d6e0f735b3fb2342128.md",
     "static/media/get-involved.md": "/static/media/get-involved.db58cf7b06f5b72366be.md",
     "static/media/call-for-papers.md": "/static/media/call-for-papers.3a17d72955e961508f1f.md",
@@ -20,14 +21,14 @@
     "static/media/home-preamble.md": "/static/media/home-preamble.8ff9bdb582fcd84eab02.md",
     "static/media/about-foss4g-sotm-oceania.md": "/static/media/about-foss4g-sotm-oceania.b5b63b1d19393edf9738.md",
     "static/media/accommodation.md": "/static/media/accommodation.44a0ad741d18c9588aa7.md",
-    "static/media/top-menu.md": "/static/media/top-menu.127ba580e685d492e392.md",
+    "static/media/top-menu.md": "/static/media/top-menu.c651128c0e35a4591a8f.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
     "main.973680e5.css.map": "/static/css/main.973680e5.css.map",
-    "main.44a0edb3.js.map": "/static/js/main.44a0edb3.js.map",
+    "main.d2a4dc21.js.map": "/static/js/main.d2a4dc21.js.map",
     "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.973680e5.css",
-    "static/js/main.44a0edb3.js"
+    "static/js/main.d2a4dc21.js"
   ]
 }
