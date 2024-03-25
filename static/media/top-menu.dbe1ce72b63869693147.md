@@ -1,7 +1,0 @@
-- [HOME](/)
-- [LOGO COMPETITION](#/logo-competition)
-- [ATTEND](#/attend)
-  - [Register](#/attend)
-  - [Call for Papers](#/call-for-papers)
-- [PROGRAM](#/program/outline)
-- [SPONSORSHIP](#/sponsorship)
