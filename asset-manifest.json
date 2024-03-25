@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.973680e5.css",
-    "main.js": "/static/js/main.9bcd425b.js",
+    "main.js": "/static/js/main.1df58f75.js",
     "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.66b577c295944288aee9.md",
     "static/media/present.md": "/static/media/present.7fe45b4a97137a870e47.md",
@@ -9,26 +9,26 @@
     "static/media/organisers.md": "/static/media/organisers.134ce3e56dc3089ed2ad.md",
     "static/media/community-day.md": "/static/media/community-day.f43d24c63de1a7274ed3.md",
     "static/media/logo-competition.md": "/static/media/logo-competition.0cbf75947fc6b4c82a60.md",
-    "static/media/register.md": "/static/media/register.1d6e0f735b3fb2342128.md",
+    "static/media/register.md": "/static/media/register.dd468684c3afa74a94e3.md",
     "static/media/get-involved.md": "/static/media/get-involved.db58cf7b06f5b72366be.md",
-    "static/media/call-for-papers.md": "/static/media/call-for-papers.3a17d72955e961508f1f.md",
+    "static/media/call-for-papers.md": "/static/media/call-for-papers.68fb58dd9b1c8dd48f7d.md",
     "static/media/workshops.md": "/static/media/workshops.f20c7095e29a9953c620.md",
     "static/media/social-events.md": "/static/media/social-events.b532cc77c27f9644f7ee.md",
     "static/media/travel-grant-program.md": "/static/media/travel-grant-program.fbc64a6d279830acd321.md",
     "static/media/product-showcase.md": "/static/media/product-showcase.29e695eb7a275abc9585.md",
     "index.html": "/index.html",
-    "static/media/program-outline.md": "/static/media/program-outline.7c52732bc31c8cf97f79.md",
+    "static/media/program-outline.md": "/static/media/program-outline.a0ae81718e92639452ba.md",
     "static/media/home-preamble.md": "/static/media/home-preamble.8ff9bdb582fcd84eab02.md",
     "static/media/about-foss4g-sotm-oceania.md": "/static/media/about-foss4g-sotm-oceania.b5b63b1d19393edf9738.md",
     "static/media/accommodation.md": "/static/media/accommodation.44a0ad741d18c9588aa7.md",
-    "static/media/top-menu.md": "/static/media/top-menu.c651128c0e35a4591a8f.md",
+    "static/media/top-menu.md": "/static/media/top-menu.dbe1ce72b63869693147.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
     "main.973680e5.css.map": "/static/css/main.973680e5.css.map",
-    "main.9bcd425b.js.map": "/static/js/main.9bcd425b.js.map",
+    "main.1df58f75.js.map": "/static/js/main.1df58f75.js.map",
     "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.973680e5.css",
-    "static/js/main.9bcd425b.js"
+    "static/js/main.1df58f75.js"
   ]
 }
