@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b4a26405.css",
-    "main.js": "/static/js/main.85567afc.js",
+    "main.js": "/static/js/main.b82f90f4.js",
     "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.0fe1e44f8590d9611592.md",
     "static/media/present.md": "/static/media/present.7fe45b4a97137a870e47.md",
@@ -12,7 +12,7 @@
     "static/media/get-involved.md": "/static/media/get-involved.db58cf7b06f5b72366be.md",
     "static/media/call-for-papers.md": "/static/media/call-for-papers.6702936b9516574e2ce2.md",
     "static/media/workshops.md": "/static/media/workshops.f20c7095e29a9953c620.md",
-    "static/media/travel-grant-program.md": "/static/media/travel-grant-program.e57f06fce69e434e1148.md",
+    "static/media/travel-grant-program.md": "/static/media/travel-grant-program.a09d0e18cdd25e7e4c77.md",
     "static/media/social-events.md": "/static/media/social-events.b532cc77c27f9644f7ee.md",
     "static/media/product-showcase.md": "/static/media/product-showcase.29e695eb7a275abc9585.md",
     "index.html": "/index.html",
@@ -24,11 +24,11 @@
     "static/media/top-menu.md": "/static/media/top-menu.57760c5d51629d400855.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
     "main.b4a26405.css.map": "/static/css/main.b4a26405.css.map",
-    "main.85567afc.js.map": "/static/js/main.85567afc.js.map",
+    "main.b82f90f4.js.map": "/static/js/main.b82f90f4.js.map",
     "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4a26405.css",
-    "static/js/main.85567afc.js"
+    "static/js/main.b82f90f4.js"
   ]
 }
