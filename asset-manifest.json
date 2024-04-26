@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b4a26405.css",
-    "main.js": "/static/js/main.fb0f6b79.js",
+    "main.js": "/static/js/main.0241cea7.js",
     "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.0fe1e44f8590d9611592.md",
     "static/media/present.md": "/static/media/present.7fe45b4a97137a870e47.md",
@@ -14,8 +14,8 @@
     "static/media/workshops.md": "/static/media/workshops.f20c7095e29a9953c620.md",
     "static/media/travel-grant-program.md": "/static/media/travel-grant-program.a09d0e18cdd25e7e4c77.md",
     "static/media/social-events.md": "/static/media/social-events.b532cc77c27f9644f7ee.md",
+    "static/media/accommodation.md": "/static/media/accommodation.90b7baf22861b197e888.md",
     "static/media/product-showcase.md": "/static/media/product-showcase.29e695eb7a275abc9585.md",
-    "static/media/accommodation.md": "/static/media/accommodation.63b30a3bda454ab25646.md",
     "index.html": "/index.html",
     "static/media/program-outline.md": "/static/media/program-outline.a0ae81718e92639452ba.md",
     "static/media/home-preamble.md": "/static/media/home-preamble.8ff9bdb582fcd84eab02.md",
@@ -24,11 +24,11 @@
     "static/media/top-menu.md": "/static/media/top-menu.32818840a252da744183.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
     "main.b4a26405.css.map": "/static/css/main.b4a26405.css.map",
-    "main.fb0f6b79.js.map": "/static/js/main.fb0f6b79.js.map",
+    "main.0241cea7.js.map": "/static/js/main.0241cea7.js.map",
     "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4a26405.css",
-    "static/js/main.fb0f6b79.js"
+    "static/js/main.0241cea7.js"
   ]
 }
