@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.b4a26405.css",
-    "main.js": "/static/js/main.b82f90f4.js",
+    "main.js": "/static/js/main.fb0f6b79.js",
     "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.0fe1e44f8590d9611592.md",
     "static/media/present.md": "/static/media/present.7fe45b4a97137a870e47.md",
-    "static/media/register.md": "/static/media/register.e4100b423c303d9823fc.md",
+    "static/media/register.md": "/static/media/register.03d1a397c2873c5e4376.md",
     "static/media/organisers.md": "/static/media/organisers.134ce3e56dc3089ed2ad.md",
     "static/media/community-day.md": "/static/media/community-day.f43d24c63de1a7274ed3.md",
     "static/media/logo-competition.md": "/static/media/logo-competition.785484d5d22b7c081024.md",
@@ -15,20 +15,20 @@
     "static/media/travel-grant-program.md": "/static/media/travel-grant-program.a09d0e18cdd25e7e4c77.md",
     "static/media/social-events.md": "/static/media/social-events.b532cc77c27f9644f7ee.md",
     "static/media/product-showcase.md": "/static/media/product-showcase.29e695eb7a275abc9585.md",
+    "static/media/accommodation.md": "/static/media/accommodation.63b30a3bda454ab25646.md",
     "index.html": "/index.html",
     "static/media/program-outline.md": "/static/media/program-outline.a0ae81718e92639452ba.md",
     "static/media/home-preamble.md": "/static/media/home-preamble.8ff9bdb582fcd84eab02.md",
     "static/media/about-foss4g-sotm-oceania.md": "/static/media/about-foss4g-sotm-oceania.dd605c49c0fd8cd1cfb4.md",
     "static/media/code-of-conduct.md": "/static/media/code-of-conduct.e4012129a720d4b8409d.md",
-    "static/media/accommodation.md": "/static/media/accommodation.44a0ad741d18c9588aa7.md",
-    "static/media/top-menu.md": "/static/media/top-menu.57760c5d51629d400855.md",
+    "static/media/top-menu.md": "/static/media/top-menu.32818840a252da744183.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
     "main.b4a26405.css.map": "/static/css/main.b4a26405.css.map",
-    "main.b82f90f4.js.map": "/static/js/main.b82f90f4.js.map",
+    "main.fb0f6b79.js.map": "/static/js/main.fb0f6b79.js.map",
     "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4a26405.css",
-    "static/js/main.b82f90f4.js"
+    "static/js/main.fb0f6b79.js"
   ]
 }
