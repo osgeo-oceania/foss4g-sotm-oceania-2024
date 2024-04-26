@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.973680e5.css",
-    "main.js": "/static/js/main.0ec87e48.js",
+    "main.css": "/static/css/main.b4a26405.css",
+    "main.js": "/static/js/main.b4c22af2.js",
     "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.88e6ee5b8918cd92c028.md",
     "static/media/present.md": "/static/media/present.7fe45b4a97137a870e47.md",
+    "static/media/register.md": "/static/media/register.e4100b423c303d9823fc.md",
     "static/media/organisers.md": "/static/media/organisers.134ce3e56dc3089ed2ad.md",
     "static/media/community-day.md": "/static/media/community-day.f43d24c63de1a7274ed3.md",
-    "static/media/register.md": "/static/media/register.6334106bdf1a74280a1f.md",
     "static/media/logo-competition.md": "/static/media/logo-competition.785484d5d22b7c081024.md",
     "static/media/get-involved.md": "/static/media/get-involved.db58cf7b06f5b72366be.md",
     "static/media/call-for-papers.md": "/static/media/call-for-papers.6702936b9516574e2ce2.md",
@@ -23,12 +23,12 @@
     "static/media/accommodation.md": "/static/media/accommodation.44a0ad741d18c9588aa7.md",
     "static/media/top-menu.md": "/static/media/top-menu.758024777f353d9bd7ee.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
-    "main.973680e5.css.map": "/static/css/main.973680e5.css.map",
-    "main.0ec87e48.js.map": "/static/js/main.0ec87e48.js.map",
+    "main.b4a26405.css.map": "/static/css/main.b4a26405.css.map",
+    "main.b4c22af2.js.map": "/static/js/main.b4c22af2.js.map",
     "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.973680e5.css",
-    "static/js/main.0ec87e48.js"
+    "static/css/main.b4a26405.css",
+    "static/js/main.b4c22af2.js"
   ]
 }
