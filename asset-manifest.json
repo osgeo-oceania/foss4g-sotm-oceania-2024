@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.30cfdc5a.css",
-    "main.js": "/static/js/main.67dd5c18.js",
+    "main.js": "/static/js/main.e70bdb58.js",
     "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.e3ef1769b36f482c44d9.md",
     "static/media/present.md": "/static/media/present.b48a79e16b15a6893839.md",
+    "static/media/adventures.md": "/static/media/adventures.370613ec3ff540f0c199.md",
     "static/media/register.md": "/static/media/register.d767e862159c6127cf6f.md",
     "static/media/organisers.md": "/static/media/organisers.134ce3e56dc3089ed2ad.md",
-    "static/media/adventures.md": "/static/media/adventures.58638d2d92cd21096b29.md",
     "static/media/schedule-placeholder.md": "/static/media/schedule-placeholder.c057924265a5f87e9b25.md",
     "static/media/community-day.md": "/static/media/community-day.e3b724e93f48cc6b4a8d.md",
     "static/media/call-for-papers.md": "/static/media/call-for-papers.3cac87389409653d2802.md",
@@ -26,11 +26,11 @@
     "static/media/social-events-intro.md": "/static/media/social-events-intro.0e4d25fc709dc552c727.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
     "main.30cfdc5a.css.map": "/static/css/main.30cfdc5a.css.map",
-    "main.67dd5c18.js.map": "/static/js/main.67dd5c18.js.map",
+    "main.e70bdb58.js.map": "/static/js/main.e70bdb58.js.map",
     "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30cfdc5a.css",
-    "static/js/main.67dd5c18.js"
+    "static/js/main.e70bdb58.js"
   ]
 }
