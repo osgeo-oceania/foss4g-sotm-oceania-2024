@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3a761a3e.css",
-    "main.js": "/static/js/main.2dbe996f.js",
+    "main.js": "/static/js/main.a0d9c18f.js",
     "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.e3ef1769b36f482c44d9.md",
     "static/media/present.md": "/static/media/present.b48a79e16b15a6893839.md",
@@ -21,16 +21,16 @@
     "static/media/product-showcase.md": "/static/media/product-showcase.29e695eb7a275abc9585.md",
     "static/media/code-of-conduct.md": "/static/media/code-of-conduct.e4012129a720d4b8409d.md",
     "static/media/home-preamble.md": "/static/media/home-preamble.c63ca10b2936cb7e1649.md",
+    "static/media/top-menu.md": "/static/media/top-menu.a1bc1931d5a0322fb533.md",
     "static/media/acknowledgement-country.md": "/static/media/acknowledgement-country.75e597155aab7bce6266.md",
-    "static/media/top-menu.md": "/static/media/top-menu.ea22c22fb7ee7cb60e99.md",
     "static/media/social-events-intro.md": "/static/media/social-events-intro.0e4d25fc709dc552c727.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
     "main.3a761a3e.css.map": "/static/css/main.3a761a3e.css.map",
-    "main.2dbe996f.js.map": "/static/js/main.2dbe996f.js.map",
+    "main.a0d9c18f.js.map": "/static/js/main.a0d9c18f.js.map",
     "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a761a3e.css",
-    "static/js/main.2dbe996f.js"
+    "static/js/main.a0d9c18f.js"
   ]
 }
