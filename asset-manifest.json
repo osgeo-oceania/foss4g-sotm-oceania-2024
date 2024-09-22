@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.b51f3fb5.css",
-    "main.js": "/static/js/main.33b81c4a.js",
+    "main.css": "/static/css/main.55e54bca.css",
+    "main.js": "/static/js/main.5ae1fc92.js",
     "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
-    "static/media/sponsorship.md": "/static/media/sponsorship.e3ef1769b36f482c44d9.md",
+    "static/media/sponsorship.md": "/static/media/sponsorship.0b6fbd8f8573a3d60a91.md",
     "static/media/present.md": "/static/media/present.b48a79e16b15a6893839.md",
     "static/media/adventures.md": "/static/media/adventures.ae5863a41e2f20cda601.md",
     "static/media/organisers.md": "/static/media/organisers.134ce3e56dc3089ed2ad.md",
@@ -15,8 +15,8 @@
     "static/media/register.md": "/static/media/register.a4438132a0269bc15ccf.md",
     "static/media/travel-grant-program.md": "/static/media/travel-grant-program.63e51b5180198cd2e775.md",
     "static/media/accommodation.md": "/static/media/accommodation.891e5b5047abf9bcd447.md",
+    "static/media/social-events.md": "/static/media/social-events.99ca1e4d6517d4f9b4e2.md",
     "static/media/workshops.md": "/static/media/workshops.f04d9a8d22e547098c30.md",
-    "static/media/social-events.md": "/static/media/social-events.aef1443d1276354bcd81.md",
     "index.html": "/index.html",
     "static/media/program-outline.md": "/static/media/program-outline.d9ee59fc1f8669defebb.md",
     "static/media/product-showcase.md": "/static/media/product-showcase.29e695eb7a275abc9585.md",
@@ -30,12 +30,12 @@
     "static/media/acknowledgement-country.md": "/static/media/acknowledgement-country.75e597155aab7bce6266.md",
     "static/media/social-events-intro.md": "/static/media/social-events-intro.0e4d25fc709dc552c727.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
-    "main.b51f3fb5.css.map": "/static/css/main.b51f3fb5.css.map",
-    "main.33b81c4a.js.map": "/static/js/main.33b81c4a.js.map",
+    "main.55e54bca.css.map": "/static/css/main.55e54bca.css.map",
+    "main.5ae1fc92.js.map": "/static/js/main.5ae1fc92.js.map",
     "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b51f3fb5.css",
-    "static/js/main.33b81c4a.js"
+    "static/css/main.55e54bca.css",
+    "static/js/main.5ae1fc92.js"
   ]
 }
