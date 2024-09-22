@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a761a3e.css",
-    "main.js": "/static/js/main.a5f43364.js",
+    "main.css": "/static/css/main.b51f3fb5.css",
+    "main.js": "/static/js/main.33b81c4a.js",
     "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.e3ef1769b36f482c44d9.md",
     "static/media/present.md": "/static/media/present.b48a79e16b15a6893839.md",
@@ -21,17 +21,21 @@
     "static/media/program-outline.md": "/static/media/program-outline.d9ee59fc1f8669defebb.md",
     "static/media/product-showcase.md": "/static/media/product-showcase.29e695eb7a275abc9585.md",
     "static/media/code-of-conduct.md": "/static/media/code-of-conduct.e4012129a720d4b8409d.md",
-    "static/media/home-preamble.md": "/static/media/home-preamble.c63ca10b2936cb7e1649.md",
+    "static/media/home-preamble.md": "/static/media/home-preamble.69e8724a896dff8c7fd2.md",
+    "static/media/lanieta-roko.md": "/static/media/lanieta-roko.e1f8be2794deb15c7b9d.md",
+    "static/media/kate-fickas.md": "/static/media/kate-fickas.7f8b49082213b70eb441.md",
+    "static/media/brianna-pagan.md": "/static/media/brianna-pagan.acd4820454377e2e3111.md",
+    "static/media/andrea-jalandoni.md": "/static/media/andrea-jalandoni.a5de1a88d5c4e0ed0dd0.md",
     "static/media/top-menu.md": "/static/media/top-menu.a1bc1931d5a0322fb533.md",
     "static/media/acknowledgement-country.md": "/static/media/acknowledgement-country.75e597155aab7bce6266.md",
     "static/media/social-events-intro.md": "/static/media/social-events-intro.0e4d25fc709dc552c727.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
-    "main.3a761a3e.css.map": "/static/css/main.3a761a3e.css.map",
-    "main.a5f43364.js.map": "/static/js/main.a5f43364.js.map",
+    "main.b51f3fb5.css.map": "/static/css/main.b51f3fb5.css.map",
+    "main.33b81c4a.js.map": "/static/js/main.33b81c4a.js.map",
     "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a761a3e.css",
-    "static/js/main.a5f43364.js"
+    "static/css/main.b51f3fb5.css",
+    "static/js/main.33b81c4a.js"
   ]
 }
