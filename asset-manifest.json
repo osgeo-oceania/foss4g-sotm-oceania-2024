@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3ec7931.css",
-    "main.js": "/static/js/main.bfa8273f.js",
+    "main.css": "/static/css/main.35e802ff.css",
+    "main.js": "/static/js/main.862a2f6b.js",
     "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.0b6fbd8f8573a3d60a91.md",
     "static/media/present.md": "/static/media/present.b48a79e16b15a6893839.md",
@@ -30,12 +30,12 @@
     "static/media/social-events-intro.md": "/static/media/social-events-intro.0e4d25fc709dc552c727.md",
     "static/media/schedule-preamble.md": "/static/media/schedule-preamble.de6487ccf338f858dff9.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
-    "main.a3ec7931.css.map": "/static/css/main.a3ec7931.css.map",
-    "main.bfa8273f.js.map": "/static/js/main.bfa8273f.js.map",
+    "main.35e802ff.css.map": "/static/css/main.35e802ff.css.map",
+    "main.862a2f6b.js.map": "/static/js/main.862a2f6b.js.map",
     "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3ec7931.css",
-    "static/js/main.bfa8273f.js"
+    "static/css/main.35e802ff.css",
+    "static/js/main.862a2f6b.js"
   ]
 }
