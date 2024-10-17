@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d129f390.css",
-    "main.js": "/static/js/main.2a9726ba.js",
+    "main.js": "/static/js/main.cd57e5a1.js",
     "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.0b6fbd8f8573a3d60a91.md",
     "static/media/present.md": "/static/media/present.b48a79e16b15a6893839.md",
@@ -19,7 +19,6 @@
     "static/media/program-outline.md": "/static/media/program-outline.74444731ec4bce95ce74.md",
     "index.html": "/index.html",
     "static/media/product-showcase.md": "/static/media/product-showcase.29e695eb7a275abc9585.md",
-    "static/media/schedule-preamble.md": "/static/media/schedule-preamble.86acba866158317a9ab9.md",
     "static/media/code-of-conduct.md": "/static/media/code-of-conduct.e4012129a720d4b8409d.md",
     "static/media/home-preamble.md": "/static/media/home-preamble.69e8724a896dff8c7fd2.md",
     "static/media/lanieta-roko.md": "/static/media/lanieta-roko.e1f8be2794deb15c7b9d.md",
@@ -28,14 +27,15 @@
     "static/media/andrea-jalandoni.md": "/static/media/andrea-jalandoni.a5de1a88d5c4e0ed0dd0.md",
     "static/media/top-menu.md": "/static/media/top-menu.488302ad5d6c7aa92b69.md",
     "static/media/acknowledgement-country.md": "/static/media/acknowledgement-country.75e597155aab7bce6266.md",
+    "static/media/schedule-preamble.md": "/static/media/schedule-preamble.33ab04f6230628554b35.md",
     "static/media/social-events-intro.md": "/static/media/social-events-intro.0e4d25fc709dc552c727.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
     "main.d129f390.css.map": "/static/css/main.d129f390.css.map",
-    "main.2a9726ba.js.map": "/static/js/main.2a9726ba.js.map",
+    "main.cd57e5a1.js.map": "/static/js/main.cd57e5a1.js.map",
     "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d129f390.css",
-    "static/js/main.2a9726ba.js"
+    "static/js/main.cd57e5a1.js"
   ]
 }
