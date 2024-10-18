@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.14922100.css",
-    "main.js": "/static/js/main.b554516e.js",
+    "main.css": "/static/css/main.1491193a.css",
+    "main.js": "/static/js/main.7ac4eaec.js",
     "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.0b6fbd8f8573a3d60a91.md",
     "static/media/present.md": "/static/media/present.b48a79e16b15a6893839.md",
     "static/media/community-day.md": "/static/media/community-day.c52af262e9a3842223fb.md",
     "static/media/adventures.md": "/static/media/adventures.ae5863a41e2f20cda601.md",
-    "static/media/organisers.md": "/static/media/organisers.134ce3e56dc3089ed2ad.md",
     "static/media/transport.md": "/static/media/transport.b9618b004100650acdd7.md",
     "static/media/call-for-papers.md": "/static/media/call-for-papers.3cac87389409653d2802.md",
     "static/media/register.md": "/static/media/register.37f00a93e7663c28afb2.md",
@@ -25,17 +24,18 @@
     "static/media/kate-fickas.md": "/static/media/kate-fickas.7f8b49082213b70eb441.md",
     "static/media/brianna-pagan.md": "/static/media/brianna-pagan.acd4820454377e2e3111.md",
     "static/media/andrea-jalandoni.md": "/static/media/andrea-jalandoni.a5de1a88d5c4e0ed0dd0.md",
-    "static/media/top-menu.md": "/static/media/top-menu.488302ad5d6c7aa92b69.md",
+    "static/media/top-menu.md": "/static/media/top-menu.b2dd20935633a92af385.md",
     "static/media/acknowledgement-country.md": "/static/media/acknowledgement-country.75e597155aab7bce6266.md",
     "static/media/schedule-preamble.md": "/static/media/schedule-preamble.33ab04f6230628554b35.md",
+    "static/media/organisers-intro.md": "/static/media/organisers-intro.98ba5e379266c67d795d.md",
     "static/media/social-events-intro.md": "/static/media/social-events-intro.0e4d25fc709dc552c727.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
-    "main.14922100.css.map": "/static/css/main.14922100.css.map",
-    "main.b554516e.js.map": "/static/js/main.b554516e.js.map",
+    "main.1491193a.css.map": "/static/css/main.1491193a.css.map",
+    "main.7ac4eaec.js.map": "/static/js/main.7ac4eaec.js.map",
     "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14922100.css",
-    "static/js/main.b554516e.js"
+    "static/css/main.1491193a.css",
+    "static/js/main.7ac4eaec.js"
   ]
 }
