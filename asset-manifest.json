@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.59d07ddd.css",
-    "main.js": "/static/js/main.b8d2057e.js",
+    "main.js": "/static/js/main.7e64a35f.js",
     "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
     "static/media/sponsorship.md": "/static/media/sponsorship.0b6fbd8f8573a3d60a91.md",
     "static/media/present.md": "/static/media/present.b48a79e16b15a6893839.md",
@@ -25,17 +25,17 @@
     "static/media/brianna-pagan.md": "/static/media/brianna-pagan.acd4820454377e2e3111.md",
     "static/media/andrea-jalandoni.md": "/static/media/andrea-jalandoni.a5de1a88d5c4e0ed0dd0.md",
     "static/media/top-menu.md": "/static/media/top-menu.b2dd20935633a92af385.md",
+    "static/media/social-events-intro.md": "/static/media/social-events-intro.10df9ff68632b0fc631b.md",
     "static/media/acknowledgement-country.md": "/static/media/acknowledgement-country.75e597155aab7bce6266.md",
     "static/media/schedule-preamble.md": "/static/media/schedule-preamble.33ab04f6230628554b35.md",
     "static/media/organisers-intro.md": "/static/media/organisers-intro.98ba5e379266c67d795d.md",
-    "static/media/social-events-intro.md": "/static/media/social-events-intro.0e4d25fc709dc552c727.md",
     "static/media/our-conference-venue.md": "/static/media/our-conference-venue.d3eae6ed7beccb82e4b1.md",
     "main.59d07ddd.css.map": "/static/css/main.59d07ddd.css.map",
-    "main.b8d2057e.js.map": "/static/js/main.b8d2057e.js.map",
+    "main.7e64a35f.js.map": "/static/js/main.7e64a35f.js.map",
     "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59d07ddd.css",
-    "static/js/main.b8d2057e.js"
+    "static/js/main.7e64a35f.js"
   ]
 }
